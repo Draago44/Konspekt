@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a9f66dbf1573a031","type":"group","x":-1200,"y":-680,"width":1040,"height":956,"label":"Основные комплектующие"},
+		{"id":"826458bee625da89","type":"text","text":"ОЗУ","x":-460,"y":-600,"width":240,"height":50},
+		{"id":"67884cd2702cb4df","type":"text","text":"ПЗУ","x":-460,"y":-504,"width":240,"height":50},
+		{"id":"c86cecbd7d51e471","type":"text","text":"Материнская плата","x":-1200,"y":-320,"width":240,"height":50},
+		{"id":"0b4fe8f3c8f42b32","type":"text","text":"Физический интерфейс","x":-880,"y":-454,"width":240,"height":50},
+		{"id":"608fa6517af72f36","type":"text","text":"Программная совместимость","x":-875,"y":-178,"width":235,"height":50},
+		{"id":"51a923d5a55645ac","type":"text","text":"Процесс","x":-520,"y":-158,"width":250,"height":60},
+		{"id":"c477db108c87eff4","type":"text","text":"Переферия (PCI)","x":-520,"y":-60,"width":250,"height":60},
+		{"id":"d1544e4b569d6ba5","type":"text","text":"Физическая совместимость","x":80,"y":-178,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3c5c555b64ca85b1","fromNode":"0b4fe8f3c8f42b32","fromSide":"right","toNode":"67884cd2702cb4df","toSide":"left"},
+		{"id":"b464ee666c08db9a","fromNode":"826458bee625da89","fromSide":"left","toNode":"0b4fe8f3c8f42b32","toSide":"right"},
+		{"id":"08986b76dad57014","fromNode":"c86cecbd7d51e471","fromSide":"right","toNode":"0b4fe8f3c8f42b32","toSide":"left"},
+		{"id":"2227e0f5d5fdc30d","fromNode":"0b4fe8f3c8f42b32","fromSide":"right","toNode":"51a923d5a55645ac","toSide":"left"},
+		{"id":"6e60471992b3c1b5","fromNode":"0b4fe8f3c8f42b32","fromSide":"right","toNode":"c477db108c87eff4","toSide":"left"},
+		{"id":"3340523fb516e2bb","fromNode":"c86cecbd7d51e471","fromSide":"right","toNode":"608fa6517af72f36","toSide":"left"}
+	]
+}
