@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Python/Dictionaries.md",
+                "file": "Конспекты/Информационные технологии/Понятие информации и IT. Устройства ввода и вывода. Smart-устройства. IoT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionaries"
+              "title": "Понятие информации и IT. Устройства ввода и вывода. Smart-устройства. IoT"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -171,13 +173,17 @@
   },
   "active": "e11510a99e4c9e27",
   "lastOpenFiles": [
+    "Работа с файлами.md",
+    "Виртуальная машина Java (JVM).md",
+    "Amazon Web Services.md",
+    "NetBeans.md",
+    "Конспекты/Информационные технологии/Понятие информации и IT. Устройства ввода и вывода. Smart-устройства. IoT.md",
+    "Конспекты/Python/Dictionaries.md",
     "Конспекты/Python/Без названия.md",
     "Конспекты/Python/Алгоритм. Понятие алгоритма. Типы алгоритмов.md",
-    "Конспекты/Python/Dictionaries.md",
     "Конспекты/Python/Tuples.md",
     "Конспекты/Python/Исключения в Python.md",
     "Конспекты/Python/Python.md",
-    "Работа с файлами.md",
     "Конспекты/Python/Type Casting.md",
     "Конспекты/Python/Новое Python.md",
     "Конспекты/Python/Без названия 2.md",
@@ -193,12 +199,8 @@
     "Конспекты/Информатика РПО/DOCKER.md",
     "Конспекты/Информатика РПО/CI CD.md",
     "Конспекты/Информатика РПО/Элементы комбинаторики, теории множеств и математической логики..md",
-    "Конспекты/Информатика РПО/Формула Бэкуса - наука.md",
-    "Конспекты/Люди/Джеймс Гослинг.md",
-    "Виртуальная машина Java (JVM).md",
-    "NetBeans.md",
     "Конспекты/Скорость печати/Снимок экрана (28).png",
-    "Конфигурация Windows 10",
+    "Конспекты/Конфигурация Windows 10",
     "Конспекты/Изображение/Pasted image 20260217100031.png",
     "Конспекты/Изображение/Pasted image 20260217095936.png",
     "Конспекты/Изображение/Pasted image 20260217095847.png",
