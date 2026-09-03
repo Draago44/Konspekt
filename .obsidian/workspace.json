@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты/Python/Dictionaries.md",
+                "file": "Понятие информации и ИТ. Устройство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionaries"
+              "title": "Понятие информации и ИТ. Устройство"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -171,13 +173,20 @@
   },
   "active": "e11510a99e4c9e27",
   "lastOpenFiles": [
+    "LiberOFFICE.md",
+    "Работа с файлами.md",
+    "Понятие информации и ИТ. Устройство.md",
+    "Конспекты/Информационные технологии/Без названия.md",
+    "Конспекты/Информационные технологии",
+    "Конспекты/Без названия.md",
+    "Конспекты/Python/Dictionaries.md",
+    "NetBeans.md",
+    "Amazon Web Services.md",
     "Конспекты/Python/Без названия.md",
     "Конспекты/Python/Алгоритм. Понятие алгоритма. Типы алгоритмов.md",
-    "Конспекты/Python/Dictionaries.md",
     "Конспекты/Python/Tuples.md",
     "Конспекты/Python/Исключения в Python.md",
     "Конспекты/Python/Python.md",
-    "Работа с файлами.md",
     "Конспекты/Python/Type Casting.md",
     "Конспекты/Python/Новое Python.md",
     "Конспекты/Python/Без названия 2.md",
@@ -191,12 +200,6 @@
     "Конспекты/Python/except и обработка разных типов исключений.md",
     "Конспекты/Python/sets.md",
     "Конспекты/Информатика РПО/DOCKER.md",
-    "Конспекты/Информатика РПО/CI CD.md",
-    "Конспекты/Информатика РПО/Элементы комбинаторики, теории множеств и математической логики..md",
-    "Конспекты/Информатика РПО/Формула Бэкуса - наука.md",
-    "Конспекты/Люди/Джеймс Гослинг.md",
-    "Виртуальная машина Java (JVM).md",
-    "NetBeans.md",
     "Конспекты/Скорость печати/Снимок экрана (28).png",
     "Конфигурация Windows 10",
     "Конспекты/Изображение/Pasted image 20260217100031.png",
