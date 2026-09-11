@@ -1,9 +1,9 @@
 {
-  "cssTheme": "ion",
+  "cssTheme": "Autotape",
   "accentColor": "#00a83b",
   "theme": "obsidian",
-  "textFontFamily": "Corbel",
-  "interfaceFontFamily": "Corbel",
-  "monospaceFontFamily": "Alef",
+  "textFontFamily": "Apple Color Emoji",
+  "interfaceFontFamily": "Academy Engraved LET,Apple Color Emoji",
+  "monospaceFontFamily": "Apple Color Emoji",
   "baseFontSize": 20
 }
